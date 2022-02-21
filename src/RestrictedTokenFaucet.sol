@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 /// RestrictedTokenFaucet.sol
 
 // Copyright (C) 2019-2020 Maker Ecosystem Growth Holdings, INC.
